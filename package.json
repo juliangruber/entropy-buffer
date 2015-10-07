@@ -1,0 +1,16 @@
+{
+  "name": "entropy-buffer",
+  "version": "0.0.0",
+  "description": "Create a buffer with a target shannon entropy",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "juliangruber/entropy-buffer",
+  "devDependencies": {
+    "tape": "*"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "binary-shannon-entropy": "^1.1.2"
+  }
+}
