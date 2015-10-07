@@ -1,6 +1,6 @@
 {
   "name": "entropy-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create a buffer with a target shannon entropy",
   "scripts": {
     "test": "make test"
